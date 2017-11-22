@@ -1,6 +1,6 @@
 # Couch Money
 
-A toy project made for the YouTube video found here: XXX
+A toy project made for the YouTube video found here: https://www.youtube.com/watch?v=l1eLu-HL-fc
 
 The purpose of this program is to allow you to keep track of your miscellaneous gift cards, balances, etc. found on various websites and aggregate them all into one place. 
 
